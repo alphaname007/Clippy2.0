@@ -24,8 +24,8 @@ Follow these steps to get the AI Clipboard Helper up and running on your machine
 ### Step 1: Clone the Repository 💾
 First, clone this project to your local machine using Git.
 ```bash
-git clone [https://github.com/alphaname007/Clippy2.0.git](https://github.com/alphaname007/Clippy2.0.git)
-cd ai-clipboard-helper
+git clone https://github.com/alphaname007/Clippy2.0.git
+cd Clippy2.0
 ````
 
 ### Step 2: Install Dependencies 📚
@@ -46,9 +46,9 @@ You'll see a confirmation message that the script is running, and it will contin
 
 ---
 ## 🔀 The Workflow
-* 📋 Copy: Highlight and copy any text to your clipboard `Ctrl+C`. This text is your prompt.
-* ⚡️ Activate: Press the hotkey `Ctrl+Alt+P`. The script will print a "Processing..." message in the terminal.
-* ✨ Paste: In a few seconds, the AI's response will be automatically copied to your clipboard. Just paste it (Ctrl+V) wherever you need it!
+* **📋 Copy**: Highlight and copy any text to your clipboard `Ctrl+C`. This text is your prompt.
+* **⚡️ Activate**: Press the hotkey `Ctrl+Alt+P`. The script will print a "Processing..." message in the terminal.
+* **✨ Paste**: In a few seconds, the AI's response will be automatically copied to your clipboard. Just paste it (Ctrl+V) wherever you need it!
 
 ---
 ## 🛑 Stop the Script
